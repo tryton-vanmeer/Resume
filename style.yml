@@ -1,0 +1,27 @@
+embeddedFonts: [NotoSans, Hack]
+
+pageSetup:
+    size: A4
+    spacing-header: 0
+    spacing-footer: 0
+
+fontsAlias:
+    stdFont: NotoSans
+    stdBold: NotoSans-Bold
+    stdItalic: NotoSans-Italic
+    stdBoldItalic: NotoSans-BoldItalic
+    stdSans: NotoSans
+    stdSansBold: NotoSans-Bold
+    stdSansItalic: NotoSans-Italic
+    stdSansBoldItalic: NotoSans-BoldItalic
+    stdMono: Hack
+    stdMonoItalic: Hack-Italic
+    stdMonoBold: Hack-Bold
+    stdMonoBoldItalic: Hack-BoldItalic
+
+styles:
+    summary:
+        textColor: #666666
+        alignment: center
+    details:
+        alignment: center
