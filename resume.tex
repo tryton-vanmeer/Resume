@@ -1,0 +1,88 @@
+% resume.tex
+
+\documentclass[letterpaper,11pt]{article}
+
+%-----------------------------------------------------------
+\usepackage[empty]{fullpage}
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.80}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins to 0.5in on all sides
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.0in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\large \colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{7.0in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+
+
+\textbf{\large Tryton Van Meer} \\
+Loves new technology, FOSS, working in a Linux environment, and all things computers --- software and hardware.
+
+\vspace{0.1in}
+
+\begin{tabular*}{7.5in}{l@{\extracolsep{\fill}}r}
+613-501-9241 &  trytonvanmer@gmail.com \\
+Ottawa, Canada & tryton-vanmeer.github.io\\
+\end{tabular*}
+\\
+
+\vspace{0.1in}
+
+\resheading{Education}
+\begin{itemize}
+\item
+	\ressubheading{Algonquin College}{Ottawa, CA}{Computer Programming}{Sep. 2015 - Apr. 2017}
+\end{itemize}
+
+% \resheading{Work Experience}
+% \begin{itemize}
+% \item
+% 	\ressubheading{Company Name}{Location}{Job Title}{Date - Date}
+% 	\begin{itemize}
+% 		\resitem{Item 1}
+% 		\resitem{Item 2}
+% 		\resitem{Item 3}
+% 	\end{itemize}
+
+% \end{itemize}
+
+\resheading{Skills}
+
+\begin{description}
+\item[Languages:]
+Python, Java, C/C{}\verb!++!, Bash
+\item[Web Development:]
+HTML, CSS, SASS, Javascript, Bootstrap
+\item[Software/Tools:]
+Linux, Android, Git, Docker, Various database engiens
+\item[Miscellaneous:]
+Excellent troubleshooting and debugging skills,
+exceptional problem solving skills, good teams skills
+\end{description}
+
+\resheading{Open Source Projects}
+
+\begin{description}
+\item [$\bullet$] Adventurer's Logbook, a D\&D character management app for Android
+\item [$\bullet$] Custom Startpage with links and ability to search
+\item [$\bullet$] Personal dashboard for local media server. Inclludes configuration files for deployment on NGINX/uWSGI.
+\item [$\bullet$] Contributions to various Android apps
+\end{description}
+
+\end{document}
