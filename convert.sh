@@ -6,4 +6,4 @@ if [ ! -d $OUTPUT ]; then
     mkdir $OUTPUT
 fi
 
-latexmk -pdf -jobname=$OUTPUT/resume resume.tex
+xelatex -pdf -jobname=$OUTPUT/resume resume.tex
