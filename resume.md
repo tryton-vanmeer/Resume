@@ -1,6 +1,6 @@
 ---
 documentclass: article
-fontsize: 11pt
+fontsize: 12pt
 header-includes: |
     \usepackage[empty]{fullpage}
     \setmainfont{JetBrains Mono}
@@ -10,17 +10,17 @@ header-includes: |
 
 Programmer who loves Linux and all things computers
 
-# Skills
+## Skills
 
 **Languages:** Python, Java, Vala, Rust, C, Bash/POSIX Shell, C#, SQL, JavaScript, HTML, CSS
 
 **Software/Tools:** Linux (Arch Linux, Fedora, Ubuntu), Ansible, Android, Git, Gradle,
 Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 
-# Work Experience
+## Work Experience
 
-## DLS Technology
-### Software Developer
+### DLS Technology
+#### Software Developer
 
 + Take development tasks from conception to completion.
 + Maintain RPM packages and corresponding Spec files.
@@ -28,7 +28,7 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 + Optimization of Windows VMs under KVM.
 + Write user documentation.
 
-# Projects
+## Projects
 
 **ProtonDB-for-Steam** Firefox extension that shows ratings from protondb.com on Steam.
 
