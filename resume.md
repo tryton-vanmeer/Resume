@@ -18,9 +18,9 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 
 ## Work Experience
 
-**DLS Technology** \hfill \hfill Ottawa
+**DLS Technology** \alignright Ottawa
 
-*Software Developer* \hfill \hfill 2019-11 --- Current
+*Software Developer* \alignright 2019-11 --- Current
 
 + Take development tasks from conception to completion.
 + Maintain RPM packages and corresponding Spec files.
