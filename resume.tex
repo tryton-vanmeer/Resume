@@ -1,7 +1,5 @@
 \usepackage[empty]{fullpage}
 \usepackage[compact]{titlesec}
-\usepackage[normalem]{ulem}
-\usepackage{sectsty}
 
 % Font
 \setmainfont{JetBrains Mono}
@@ -13,7 +11,10 @@
 \addtolength{\topmargin}{-0.5in}
 \addtolength{\textheight}{1.0in}
 
+% H1 Style
+\titleformat{\section}{\large\bfseries}{}{}{}
+
 % H2 Style
-\subsectionfont{\normalfont\large\bfseries\underline}
+\titleformat{\subsection}{\large\bfseries}{}{}{}[\titlerule]
 
 \newcommand{\alignright}[0]{\hfill \hfill}
