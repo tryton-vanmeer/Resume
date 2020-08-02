@@ -5,7 +5,7 @@ fontsize: 12pt
 
 # Tryton Van Meer
 
-Programmer who loves Linux and all things computers
+>>> Programmer who loves Linux and all things computers
 
 ## Skills
 
