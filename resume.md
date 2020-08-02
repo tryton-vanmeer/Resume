@@ -5,9 +5,9 @@ fontsize: 12pt
 
 # Tryton Van Meer
 
-\begin{center}
-Programmer who loves Linux and all things computers
-\end{center}
+Programmer who loves Linux and all things computers \alignright trytonvanmeer.dev
+
+Ottawa, Canada \alignright hello@trytonvanmeer.dev
 
 ## Skills
 
