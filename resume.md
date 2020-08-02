@@ -1,3 +1,11 @@
+---
+documentclass: article
+fontsize: 11pt
+header-includes: |
+    \usepackage[empty]{fullpage}
+    \setmainfont{JetBrains Mono}
+---
+
 # Tryton Van Meer
 
 Programmer who loves Linux and all things computers
