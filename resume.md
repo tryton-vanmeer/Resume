@@ -1,14 +1,6 @@
 ---
 documentclass: article
 fontsize: 12pt
-header-includes: |
-    \usepackage[empty]{fullpage}
-    \setmainfont{JetBrains Mono}
-    \addtolength{\oddsidemargin}{-0.5in}
-    \addtolength{\evensidemargin}{-0.5in}
-    \addtolength{\textwidth}{1.0in}
-    \addtolength{\topmargin}{-0.5in}
-    \addtolength{\textheight}{1.0in}
 ---
 
 # Tryton Van Meer
