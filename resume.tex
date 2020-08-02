@@ -1,5 +1,7 @@
 \usepackage[empty]{fullpage}
 \usepackage[compact]{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage{sectsty}
 
 % Font
 \setmainfont{JetBrains Mono}
@@ -11,5 +13,8 @@
 \addtolength{\topmargin}{-0.5in}
 \addtolength{\textheight}{1.0in}
 
-% Center Title
-\titleformat{\section}[block]{\Large\bfseries\filcenter}{}{}{}
+% H1 Style
+\sectionfont{\normalfont\Large\bfseries\filcenter}
+
+% H2 Style
+\subsectionfont{\normalfont\large\bfseries\underline}
