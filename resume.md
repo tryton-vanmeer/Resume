@@ -8,7 +8,9 @@ fontsize: 12pt
 \Begin{center}
 **Programmer who loves Linux and all things computers**
 
-trytonvanmeer.dev • hello@trytonvanmeer.dev • github.com/trytonvanmeer
+[trytonvanmeer.dev](https://trytonvanmeer.dev)
+• [hello@trytonvanmeer.dev](mailto:hello@trytonvanmeer.dev)
+• [github.com/trytonvanmeer](https://github.com/trytonvanmeer)
 \End{center}
 
 \vspace{0.1in}
@@ -44,7 +46,6 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
     + **Simple-Solitaire** Solitaire game collection for Android.
     + **Checkpoint** Fast and simple homebrew save manager for 3DS and Switch.
 
-<!-- Footer -->
 \Begin{footer}
 [Source](https://github.com/tryton-vanmeer/Resume) \alignright \today
 \End{footer}
