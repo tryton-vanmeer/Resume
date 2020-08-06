@@ -10,7 +10,7 @@ fontsize: 12pt
 
 [trytonvanmeer.dev](https://trytonvanmeer.dev)
 • [hello@trytonvanmeer.dev](mailto:hello@trytonvanmeer.dev)
-• [github.com/trytonvanmeer](https://github.com/trytonvanmeer)
+• [github.com/tryton-vanmeer](https://github.com/tryton-vanmeer)
 \End{center}
 
 \vspace{0.1in}
