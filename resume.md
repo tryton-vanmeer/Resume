@@ -11,6 +11,8 @@ fontsize: 12pt
 trytonvanmeer.dev • hello@trytonvanmeer.dev • github.com/trytonvanmeer
 \End{center}
 
+\vspace{0.1in}
+
 ## Skills
 
 **Languages:** Python, Java, Vala, Rust, C, Bash/POSIX Shell, C#, SQL, JavaScript, HTML, CSS
