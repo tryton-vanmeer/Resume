@@ -19,6 +19,7 @@ rm -rf output/*
 
 echo "Building resume"
 make
+cp index.html output/index.html
 
 echo "Updating gh-pages branch"
 cd output && git add --all && git commit -m "Publishing to gh-pages (deploy.sh)"
