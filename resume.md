@@ -38,3 +38,7 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
     + **Slide** Reddit browser for Android.
     + **Simple-Solitaire** Solitaire game collection for Android.
     + **Checkpoint** Fast and simple homebrew save manager for 3DS and Switch.
+
+<!-- Footer -->
+\vfill
+\alignright \today
