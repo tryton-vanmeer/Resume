@@ -5,8 +5,11 @@ fontsize: 12pt
 
 # Tryton Van Meer
 
-Programmer who loves Linux and all things computers \alignright trytonvanmeer.dev
-Ottawa, Canada \alignright hello@trytonvanmeer.dev
+\begin{center}
+\textbf{Programmer who loves Linux and all things computers}
+
+trytonvanmeer.dev • hello@trytonvanmeer.dev • github.com/trytonvanmeer
+\end{center}
 
 ## Skills
 
