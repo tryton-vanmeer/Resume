@@ -5,11 +5,11 @@ fontsize: 12pt
 
 # Tryton Van Meer
 
-\begin{center}
-\textbf{Programmer who loves Linux and all things computers}
+\Begin{center}
+**Programmer who loves Linux and all things computers**
 
 trytonvanmeer.dev • hello@trytonvanmeer.dev • github.com/trytonvanmeer
-\end{center}
+\End{center}
 
 ## Skills
 
