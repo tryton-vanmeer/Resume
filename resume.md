@@ -37,14 +37,14 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 
 ## Projects
 
-+ **ProtonDB-for-Steam** Firefox extension that shows ratings from protondb.com on Steam.
-+ **Custom Arch Linux Image** Archiso with GNOME desktop and person tweaks.
-+ **Dotfiles** Dotfiles and system configuration managed by Ansible.
-+ **Dungeon Journal** D&D 5e character manager for the GNOME desktop.
++ **[ProtonDB-for-Steam](https://github.com/tryton-vanmeer/ProtonDB-for-Steam)** Firefox extension that shows ratings from protondb.com on Steam.
++ **[Custom Arch Linux Image](https://github.com/tryton-vanmeer/archlinux)** Archiso with GNOME desktop and person tweaks.
++ **[Dotfiles](https://github.com/tryton-vanmeer/dotfiles)** Dotfiles and system configuration managed by Ansible.
++ **[Dungeon Journal](https://github.com/tryton-vanmeer/DungeonJournal)** D&D 5e character manager for the GNOME desktop.
 + **Contributions to various Open Source projects**
-    + **Slide** Reddit browser for Android.
-    + **Simple-Solitaire** Solitaire game collection for Android.
-    + **Checkpoint** Fast and simple homebrew save manager for 3DS and Switch.
+    + **[Slide](https://github.com/ccrama/Slide)** Reddit browser for Android.
+    + **[Simple-Solitaire](https://github.com/TobiasBielefeld/Simple-Solitaire)** Solitaire game collection for Android.
+    + **[Checkpoint](https://github.com/FlagBrew/Checkpoint)** Fast and simple homebrew save manager for 3DS and Switch.
 
 \Begin{footer}
 [Source](https://github.com/tryton-vanmeer/Resume) \alignright \today
