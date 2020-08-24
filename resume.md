@@ -28,11 +28,12 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 
 *Software Developer* \alignright 2019-11 --- Current
 
-+ Take development tasks from conception to completion.
 + Maintain RPM packages and corresponding Spec files.
 + Develop GTK applications in Python.
 + Optimization of Windows VMs under KVM.
-+ Write user documentation.
++ Write user and developer facing documentation.
++ Designed and wrote vulnerability tracking web app from ground up.
+    - React.JS used for front-end, with a Python back-end using FastAPI.
 
 ## Projects
 
