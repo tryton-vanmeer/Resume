@@ -32,8 +32,7 @@ Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
 + Develop GTK applications in Python.
 + Optimization of Windows VMs under KVM.
 + Write user and developer facing documentation.
-+ Designed and wrote vulnerability tracking web app from ground up.
-    - React.JS used for front-end, with a Python back-end using FastAPI.
++ Implement new features in existing software.
 
 ## Projects
 
