@@ -1,6 +1,8 @@
 ---
 documentclass: article
 fontsize: 12pt
+author: Tryton Van Meer
+title: Resume
 ---
 
 # Tryton Van Meer
