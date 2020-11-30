@@ -39,8 +39,9 @@ title: Resume
 ## Projects
 
 + **[ProtonDB-for-Steam](https://github.com/tryton-vanmeer/ProtonDB-for-Steam)** Firefox extension that shows ratings from protondb.com on Steam.
-+ **[Custom Arch Linux Image](https://github.com/tryton-vanmeer/archlinux)** Archiso with GNOME desktop and person tweaks.
 + **[Dotfiles](https://github.com/tryton-vanmeer/dotfiles)** Dotfiles and system configuration managed by Ansible.
++ **[libvirt-infrastructure-as-code-example](https://github.com/tryton-vanmeer/libvirt-infrastructure-as-code-example)** Demo of deploying libvirt VMs using Terraform and Ansible.
++ **[Custom Arch Linux Image](https://github.com/tryton-vanmeer/archlinux)** Archiso with GNOME desktop and person tweaks.
 + **[Dungeon Journal](https://github.com/tryton-vanmeer/DungeonJournal)** D&D 5e character manager for the GNOME desktop.
 + **Contributions to various Open Source projects**
     + **[Slide](https://github.com/ccrama/Slide)** Reddit browser for Android.
