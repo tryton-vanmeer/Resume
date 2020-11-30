@@ -21,8 +21,7 @@ title: Resume
 
 **Languages:** Python, Java, Vala, Rust, C, Bash/POSIX Shell, C#, SQL, JavaScript, HTML, CSS
 
-**Software/Tools:** Linux (Arch Linux, Fedora, Ubuntu), Ansible, Android, Git, Gradle,
-Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode, IntelliJ IDEA
+**Software/Tools:** Linux (Arch Linux, Fedora, Ubuntu), Ansible, Terraform, Git, Android, Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode
 
 ## Work Experience
 
