@@ -29,9 +29,10 @@ title: Resume
 
 *Software Developer* \alignright 2019-11 --- Current
 
++ Design and build vulnerability tracker using ReactJS and Python/FastAPI.
 + Maintain RPM packages and corresponding Spec files.
 + Develop GTK applications in Python.
-+ Optimization of Windows VMs under KVM.
++ Optimize Windows VMs under KVM.
 + Write user and developer facing documentation.
 + Implement new features in existing software.
 
