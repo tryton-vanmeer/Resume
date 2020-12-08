@@ -19,7 +19,7 @@ title: Resume
 
 ## Skills
 
-**Languages:** Python, Go, Java, Vala, Rust, C, Bash/POSIX Shell, C#, SQL, JavaScript, HTML, CSS
+**Languages:** Python, Go, Java, Vala, Rust, C, Bash/POSIX Shell, C#, SQL, JavaScript
 
 **Software/Tools:** Linux (Arch Linux, Fedora, Ubuntu), Ansible, Terraform, Git, Android, Virtualization (libvirt/KVM), Containers (Podman, Docker), VSCode
 
