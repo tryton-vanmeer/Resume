@@ -19,6 +19,9 @@
     pdfborder = {0 0 0}
 }
 
+\RequirePackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0.5ex}{}[\titlerule]
+
 % variables
 \newcommand\name[1]{\renewcommand\@name{#1}}
 \newcommand\@name{\ClassError{resume}{No \noexpand\name given}\@ehc}
