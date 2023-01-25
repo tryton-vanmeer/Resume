@@ -1,37 +1,15 @@
-\usepackage[empty]{fullpage}
-\usepackage[compact]{titlesec}
+\documentclass[11pt]{article}
 
-% Datetime
-\usepackage{datetime2}
+\usepackage[letterpaper, margin=1in]{geometry}
 
 % Font
+\usepackage{fontspec}
 \setmainfont{JetBrains Mono}
 
-% Page Margin
-\addtolength{\oddsidemargin}{-0.5in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1.0in}
-\addtolength{\topmargin}{-0.5in}
-\addtolength{\textheight}{1.0in}
+\pagenumbering{gobble}
 
-% H1 Style
-\titleformat{\section}{\large\bfseries\center}{}{}{}
+\begin{document}
 
-% H2 Style
-\titleformat{\subsection}{\large\bfseries}{}{}{}[\titlerule]
+Hello World!
 
-% Hide Title/Author
-\renewcommand\maketitle{}
-
-% Commands
-\newcommand{\alignright}[0]{\hfill \hfill}
-
-\newcommand{\footer}[1]
-{
-    \vfill
-    \footnotesize{#1}
-}
-
-% Use LaTeX blocks in Markdown and still parse inner Markdown
-\let\Begin\begin
-\let\End\end
+\end{document}
