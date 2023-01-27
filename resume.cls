@@ -51,5 +51,5 @@
 
 % commands
 \newcommand{\jobheader}[4]{
-    \textbf{#3} \hfill #1 — #2 \\ #4
+    \noindent \textbf{#3} \hfill #1 — #2 \\ #4
 }
