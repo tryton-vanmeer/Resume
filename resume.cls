@@ -48,3 +48,8 @@
 % sections
 \RequirePackage{titlesec}
 \titleformat{\section}{\normalfont\Large\bfseries}{}{0.5ex}{}[\titlerule]
+
+% commands
+\newcommand{\jobheader}[4]{
+    \textbf{#3} \hfill #1 — #2 \\ #4
+}
