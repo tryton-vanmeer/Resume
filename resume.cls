@@ -25,6 +25,10 @@
     pdfborder = {0 0 0}
 }
 
+% lists
+\RequirePackage{enumitem}
+\setlist{nolistsep}
+
 % header & footer
 \RequirePackage{fancyhdr}
 \fancypagestyle{resume} {
