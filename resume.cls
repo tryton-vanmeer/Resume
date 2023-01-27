@@ -32,18 +32,22 @@
     pdfborder = {0 0 0}
 }
 
-% header
+% header & footer
 \RequirePackage{fancyhdr}
 \fancypagestyle{resume} {
     \fancyhf{}
     \renewcommand{\headrulewidth}{0pt}
     \setlength{\headheight}{26pt}
 
-    \fancyhead[C]{
+    \fancyhead[C] {
         \textbf{\@name} \\
         \href{https://\@website}{\@website} •
         \href{mailto:\@email}{\@email} •
         \href{https://github.com/\@github}{github.com/\@github}
+    }
+
+    \fancyfoot[L] {
+        \href{https://github.com/\@github/resume}{Source}
     }
 }
 \pagestyle{resume}
