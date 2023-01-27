@@ -55,5 +55,7 @@
 
 % commands
 \newcommand{\jobheader}[4]{
+    \vspace{0.25em}
     \noindent \textbf{#3} @ #4 \hfill {#1 — #2}
+    \vspace{0.25em}
 }
