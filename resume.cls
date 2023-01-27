@@ -4,17 +4,10 @@
 \LoadClass[11pt]{article}
 
 % variables
-\newcommand\name[1]{\renewcommand\@name{#1}}
-\newcommand\@name{\ClassError{resume}{No \noexpand\name given}\@ehc}
-
-\newcommand\website[1]{\renewcommand\@website{#1}}
-\newcommand\@website{\ClassError{resume}{No \noexpand\website given}\@ehc}
-
-\newcommand\email[1]{\renewcommand\@email{#1}}
-\newcommand\@email{\ClassError{resume}{No \noexpand\email given}\@ehc}
-
-\newcommand\github[1]{\renewcommand\@github{#1}}
-\newcommand\@github{\ClassError{resume}{No \noexpand\github given}\@ehc}
+\def\name#1{\def\@name{#1}}
+\def\website#1{\def\@website{#1}}
+\def\email#1{\def\@email{#1}}
+\def\github#1{\def\@github{#1}}
 
 % paper size and margins
 \RequirePackage[letterpaper, margin=1in]{geometry}
