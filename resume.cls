@@ -42,6 +42,6 @@
 
         \href{https://\@website}{\@website} •
         \href{mailto:\@email}{\@email} •
-        \href{https://github.com/\@github}{github.com\@github}
+        \href{https://github.com/\@github}{github.com/\@github}
     \end{center}
 }
