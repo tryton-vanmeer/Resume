@@ -38,6 +38,14 @@
   // main body
   set par(justify: true)
   body
+
+  // footer
+  align(bottom)[
+    #align(center)[
+      #link("https://github.com/tryton-vanmeer/resume")[Source] #h(75%)
+      #datetime.today().display()
+    ]
+  ]
 }
 
 #let exp(place, title, time, details) = {
