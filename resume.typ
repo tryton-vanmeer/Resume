@@ -35,10 +35,8 @@
 
 = Projects
 
-*ProtonDB-for-Steam* Firefox extension that shows ratings from
-protondb.com on Steam
+#link("https://github.com/tryton-vanmeer/ProtonDB-for-Steam")[*ProtonDB-for-Steam*]
+Firefox extension that shows ratings from protondb.com on Steam
 
-*Home Server* Fedora Server serving as a NAS (Samba/NFS) and host for
-various applications
-Source
-
+#link("https://github.com/tryton-vanmeer/titanium-server-config")[*Home Server*]
+Fedora Server serving as a NAS (Samba/NFS) and host for various applications Source
