@@ -40,3 +40,6 @@ Firefox extension that shows ratings from protondb.com on Steam
 
 #link("https://github.com/tryton-vanmeer/titanium-server-config")[*Home Server*]
 Fedora Server serving as a NAS (Samba/NFS) and host for various applications Source
+
+#link("https://github.com/tryton-vanmeer/Toshokan")[*Toshokan*]
+CLI tool, written in Rust, for interacting with your Steam library on Linux
