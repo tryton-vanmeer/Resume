@@ -1,8 +1,5 @@
-build: build-dir
-	xelatex -halt-on-error -output-directory=build resume.tex
-
-build-dir:
-	mkdir -p build/
+build:
+  typst compile resume.typ public/resume.pdf
 
 clean:
-	rm -rf build/
+  rm public/resume.pdf
