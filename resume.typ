@@ -10,7 +10,7 @@
 = Work Experience
 
 #exp(
-  "RCGT Consulting",
+  "Oxaro / RCGT Consulting",
   "Cloud Operations Developer",
   "Feb 2021 — Current",
   [
