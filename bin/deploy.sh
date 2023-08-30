@@ -18,11 +18,14 @@ echo "Removing existing files"
 rm -rf output/*
 
 echo "Building resume"
-make
-cp index.html output/index.html
+just
+cp public/* output/
 
 echo "Updating gh-pages branch"
 cd output && git add --all && git commit -m "Publishing to gh-pages (deploy.sh)"
 
 echo "Pushing to GitHub"
 git push origin gh-pages
+
+echo "Cleanup"
+rm -rf output
