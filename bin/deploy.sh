@@ -28,4 +28,4 @@ echo "Pushing to GitHub"
 git push origin gh-pages
 
 echo "Cleanup"
-rm -rf output
+cd .. && rm -rf output
