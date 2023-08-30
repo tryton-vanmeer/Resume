@@ -2,7 +2,7 @@
 
 #show: cv.with(
   name: "Tryton Lux",
-  website: "trytonvanmeer.dev",
+  website: "www.tryton.thelux.family",
   email: "hello@tryton.thelux.family",
   github: "tryton-vanmeer"
 )
