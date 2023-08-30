@@ -1,12 +1,10 @@
 # Resume
 
-Personal Resume built with Markdown+LaTeX
+Personal Resume built with LaTeX
 
 # Building
 
-Running `make` will produce a pdf under output/.
-
-`make tex` will convert and print the final LaTeX to stdout for debugging purposes.
+Running `just` will produce a pdf under build/.
 
 # Deploy
 
