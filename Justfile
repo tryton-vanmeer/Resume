@@ -6,3 +6,6 @@ watch:
 
 clean:
   rm public/resume.pdf
+
+deploy:
+  bin/deploy.sh

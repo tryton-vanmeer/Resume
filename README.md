@@ -1,11 +1,11 @@
 # Resume
 
-Personal Resume built with LaTeX
+Personal Resume built with [typst](https://typst.app)
 
 # Building
 
-Running `just` will produce a pdf under build/.
+Running `just` will produce a pdf under public/.
 
 # Deploy
 
-Running `deploy.sh` will build the Resume and push to the gh-pages branch.
+Running `just deploy` will build the Resume and push to the gh-pages branch.
