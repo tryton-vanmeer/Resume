@@ -7,7 +7,7 @@
   ) = {
   set document(author: name, title: "Resume")
   set text(font: "JetBrains Mono", lang: "en")
-  set page(margin: (x: 1.5cm, y: 0.5cm))
+  set page(margin: (x: 2.5cm, y: 2.5cm))
 
   show heading: it => [
     #pad(bottom: -10pt, [#smallcaps(it.body)])
@@ -25,10 +25,10 @@
       bottom: 0.5em,
       align(center)[
         #grid(
-          columns: 4,
+          columns: 3,
           [
-            #link("https://" + website)[#website]
-            #link("mailto:" + email)[#email]
+            #link("https://" + website)[#website] |
+            #link("mailto:" + email)[#email] |
             #link("https://github.com/" + github)[github.com/#github]
           ]
         )
