@@ -5,6 +5,7 @@
   github: "",
   body
   ) = {
+
   set document(author: name, title: "Resume")
   set text(font: "JetBrains Mono", lang: "en")
   set page(margin: (x: 2.5cm, y: 2.5cm))
@@ -20,19 +21,12 @@
   ]
 
   // links
-  pad(
-      top: 0.5em,
-      bottom: 0.5em,
-      align(center)[
-        #grid(
-          columns: 3,
-          [
-            #link("https://" + website)[#website] |
-            #link("mailto:" + email)[#email] |
-            #link("https://github.com/" + github)[github.com/#github]
-          ]
-        )
-      ]
+  align(center,
+    block[
+        #link("https://" + website)[#website] |
+        #link("mailto:" + email)[#email] |
+        #link("https://github.com/" + github)[github.com/#github]
+    ]
   )
 
   // main body
